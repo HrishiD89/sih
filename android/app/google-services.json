@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583692588078",
+    "project_id": "blisss-f14fa",
+    "storage_bucket": "blisss-f14fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583692588078:android:52eed114d1a08188257bbf",
+        "android_client_info": {
+          "package_name": "com.example.sih_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583692588078-vognsg2d9c4a5c4ufa4ucpg12ptcmuea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sih_project",
+            "certificate_hash": "3e5dfa874bee075805128cd9acc5c51c6dc8a67f"
+          }
+        },
+        {
+          "client_id": "583692588078-e2thnqbk0op1lfqsi3k0hm3a078s3old.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGR62thnDX7E9eTWIgpgBRpW87q799Vyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583692588078-e2thnqbk0op1lfqsi3k0hm3a078s3old.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
